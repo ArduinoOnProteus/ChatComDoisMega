@@ -13,8 +13,12 @@ Site: https://sites.google.com/site/terminalbpp/
 
 ### Dois pares de portas seriais virtuais
 Use: Virtual Serial Port Driver
+
 Exemplo:
+
+```
 COM6 (Proteus) <---> COM7 (Terminal)
 COM8 (Proteus) <---> COM9 (Terminal)
+```
 
 Obs: Execute primeiro os terminais para não perder informaões.
